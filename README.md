@@ -1,8 +1,6 @@
-# Olá, eu sou o Luan Kaike
+# 👋 Olá, eu sou o Luan Kaike
 - ❤️ eu amo codificação, lógica e, por tabela, programação
-- 🔧 estudo diversas linguagens de programação. Como c++, php, javascript, typescript e python
+- 🔧 estudo diversas linguagens de programação. Como c++, javascript, typescript, python e gdscript
+- 🏫 estou cursando ensino médio tecnico de desenvolvimento de sistemas, aqui meu belo [tcc](https://github.com/luankaike-code/jh-tcc)
+- 🖋️ possuo uma escrita e leitura de inglês intermediária
 #
-<div>
-  <img loading="lazy" height="180em" src="https://luankaike-code.github.io/github-readme-stats//api?username=luankaike-code&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img loading="lazy" height="180em" src="https://luankaike-code.github.io/github-readme-stats//api/top-langs/?username=luankaike-code&layout=compact&langs_count=7&theme=dracula"/>
-</div>
